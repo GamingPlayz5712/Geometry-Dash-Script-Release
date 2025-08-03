@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fórum Theosntn Edition</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1e1e1e;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: #222;
+      border-radius: 8px;
+    }
+
+    .comment {
+      border-bottom: 1px solid #444;
+      padding: 10px 0;
+    }
+
+    .comment:last-child {
+      border-bottom: none;
+    }
+
+    .comment-author {
+      font-weight: bold;
+    }
+
+    .comment-text {
+      margin-top: 5px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 12px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Fórum - Geometry Dash Theosntn Edition</h1>
+  </header>
+
+  <div class="container">
+    <div class="comment">
+      <div class="comment-author">Theosntn</div>
+      <div class="comment-text">Bem-vindo ao fórum oficial do meu spin-off de Geometry Dash! Poste aqui suas ideias de níveis ou feedbacks.</div>
+    </div>
+    <!-- Adicione mais comentários aqui -->
+  </div>
+
+  <footer>
+    © 2025 Theosntn Edition - Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
